@@ -14,5 +14,5 @@ Here are some programming languages, frameworks, and tools that I am familiar wi
 ><img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" width=15px> Express JS
 ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" width=15px> Tailwind CSS
 ><img src="https://cdn-icons-png.flaticon.com/128/4908/4908330.png" width=15px> Git
-><img src="https://cdn-icons-png.flaticon.com/128/25/25657.png" width=15px> GitHub
-><img src="https://cdn-icons-png.flaticon.com/128/733/733553.png" width=15px> npm
+><img src="https://cdn-icons-png.flaticon.com/128/733/733553.png" width=15px> GitHub
+><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/2560px-Npm-logo.svg.png" width=15px> npm
