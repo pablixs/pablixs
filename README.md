@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hello! My name is Pablo, and I'm from Argentina. I'm a big fan of backend development, and I'm currently studying for my bachelor's degree at the University of Quilmes (UNQ). 🌍📚
+
+Here are some programming languages, frameworks, and tools that I am familiar with:
+
+💻 HTML
+🎨 CSS
+🕸 JavaScript
+🦕 TypeScript
+📊 SQL
+🔥 Node.js
+🚀 Express
+🌪 Tailwind CSS
+🐙 Git & GitHub
+📦 NPM
+🖼 Photoshop
