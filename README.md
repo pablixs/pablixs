@@ -12,6 +12,7 @@ Here are some programming languages, frameworks, and tools that I am familiar wi
 
 ><img src="https://cdn-icons-png.flaticon.com/128/5968/5968322.png" width=15px> Node JS
 ><img src="https://kinsta.com/wp-content/uploads/2022/04/express-1.png" width=15px> Express JS
+><img src="https://rangav.gallerycdn.vsassets.io/extensions/rangav/vscode-thunder-client/2.2.4/1672066584096/Microsoft.VisualStudio.Services.Icons.Default" width=15px> Thunder Client
 ><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_ejs_icon_130626.png" width=15px> EJS
 ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" width=15px> Tailwind CSS
 ><img src="https://cdn-icons-png.flaticon.com/128/4908/4908330.png" width=15px> Git
