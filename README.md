@@ -1,6 +1,6 @@
 ### Hi :p 👋
 
-Hello! My name is Pablo, and I'm from Argentina. I'm a big fan of backend development, and I'm currently studying for my bachelor's degree at the University of Quilmes (UNQ). 🌍📚
+Hello! My name is Pablo, and I'm from Argentina. I'm a big fan of backend development, and I'm currently studying for my bachelor's degree in computer programming. at the University of Quilmes (UNQ). 🌍📚
 
 Here are some programming languages, frameworks, and tools that I am familiar with:
 
